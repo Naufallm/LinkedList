@@ -15,3 +15,4 @@ secara manual menggunakan simpul-simpul. Pastikan untuk memodifikasi kode agar s
 struktur dan karakteristik dari LinkedList manual.
 
 # CONTOH OUTPUT PROGRAM
+![linkedlist1](https://github.com/Naufallm/LinkedList/assets/130893000/5f00d1a2-c8bd-48fa-8251-668da2235dff)
